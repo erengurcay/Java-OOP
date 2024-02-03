@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="882aac1f-6c67-4be1-93a2-cc7d3c6e9617" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ATM/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ATM/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ATM/Hesap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ATM/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fighter/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fighter/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fighter/Ring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ts2Dashboard/DropOrani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ts2Dashboard/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ts2Dashboard/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/goktu/OneDrive/Masaüstü/JavaOOP&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/goktu/OneDrive/Masaüstü/JavaOOP",
+    "settings.editor.selected.configurable": "copyright"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\goktu\OneDrive\Masaüstü\3\Employee\src\Fighter" />
